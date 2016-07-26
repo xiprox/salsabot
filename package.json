@@ -1,0 +1,7 @@
+{
+  "name": "salsabot",
+  "version": "0.0.1",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
